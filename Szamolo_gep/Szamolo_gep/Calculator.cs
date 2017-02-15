@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Szamolo_gep;
 
 namespace Szamolo_gep
 {
@@ -40,7 +41,8 @@ namespace Szamolo_gep
         
         public static double reszeredmeny()
         {
-            return reszeredmeny();
+            
+           return  reszeredmeny();
         }
     }
 }

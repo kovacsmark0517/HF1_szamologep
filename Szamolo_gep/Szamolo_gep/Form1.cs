@@ -72,5 +72,35 @@ namespace Szamolo_gep
         {
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button11_Click(object sender, EventArgs e)//összead
+        {
+
+        }
+
+        private void button14_Click(object sender, EventArgs e)//kivon
+        {
+
+        }
+
+        private void button12_Click(object sender, EventArgs e)//szoroz
+        {
+
+        }
+
+        private void button13_Click(object sender, EventArgs e)//oszt
+        {
+
+        }
+
+        private void button15_Click(object sender, EventArgs e)//egyenlő
+        {
+
+        }
     }
 }
