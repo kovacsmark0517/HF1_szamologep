@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Szamolo_gep
 {
@@ -28,15 +29,7 @@ namespace Szamolo_gep
             return egyikszam * masikszam;
         }
 
-        public static void C_button()
-        {
-            
-        }
-
-        public static void CE_button()
-        {
-            
-        }
+       
         
         public static double reszeredmeny()
         {
